@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+A movie app that build with flutter. Using SOLID pattern and clean code ofcourse!
 
 ## Getting Started
 
